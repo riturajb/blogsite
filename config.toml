@@ -1,0 +1,13 @@
+baseURL = "http://penandflute.blog/"
+languageCode = "en-us"
+googlefonts = "//fonts.googleapis.com/css?family=Droid+Sans"
+title = "Pen & Flute"
+theme = "blackburn"
+disqusShortName = "penandflute-blog"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  mood = "moods"
+[params]
+    addThis = "ra-123456789ABCDEF"
+

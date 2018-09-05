@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poetry on Pen &amp; Flute</title>
+    <link>http://penandflute.blog/categories/poetry/</link>
+    <description>Recent content in Poetry on Pen &amp; Flute</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Aug 2018 19:22:25 +0530</lastBuildDate>
+    
+	<atom:link href="http://penandflute.blog/categories/poetry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>War through the eyes of a boy</title>
+      <link>http://penandflute.blog/pen/war-through-eyes-of-a-boy/</link>
+      <pubDate>Wed, 29 Aug 2018 19:22:25 +0530</pubDate>
+      
+      <guid>http://penandflute.blog/pen/war-through-eyes-of-a-boy/</guid>
+      <description>Zehra Nigah&amp;rsquo;s &amp;ldquo;Gul Baadshaah&amp;rdquo; Zehra Nigah is a well known poet. This is a &amp;ldquo;nazm&amp;rdquo;(a free flowing form of poetry in Urdu) which was written by her which narrates situation from the perspective of a boy caught in midst of a war. This was written in context of Afghanistan&amp;rsquo;s war and conflict in the zone during the troubled times of civil war. &amp;ldquo;Gul Baadshaah&amp;rdquo; is that boy from the countryside who sees everything burning around him and near and dear ones getting killed.</description>
+    </item>
+    
+  </channel>
+</rss>

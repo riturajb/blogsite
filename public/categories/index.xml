@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Pen &amp; Flute</title>
+    <link>http://penandflute.blog/categories/</link>
+    <description>Recent content in Categories on Pen &amp; Flute</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://penandflute.blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poetry</title>
+      <link>http://penandflute.blog/categories/poetry/</link>
+      <pubDate>Wed, 29 Aug 2018 19:22:25 +0530</pubDate>
+      
+      <guid>http://penandflute.blog/categories/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urdu</title>
+      <link>http://penandflute.blog/categories/urdu/</link>
+      <pubDate>Thu, 30 Aug 2018 01:26:27 +0530</pubDate>
+      
+      <guid>http://penandflute.blog/categories/urdu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
